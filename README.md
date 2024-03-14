@@ -1,2 +1,1 @@
-# taxi_travels_analysis
-Project for Triple Ten BootCamp
+Project for Triple Ten BootCamp in Data Analysis to practice analytical skills as technical abilites.
